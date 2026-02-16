@@ -10,9 +10,9 @@ CHANNEL_ID = -1003745238024
 # ОБЩЕЕ
 ADMIN_LIST = [8245388091]
 HELP_USERNAME = 'https://t.me/lapitskiy2011'  # без @ тех поддержка
-URL_BOT = 'https://t.me/aristocratscasinobot'  # Ссылка на бота
-INVITE_BOT = 'https://t.me/aristocratscasinobot?startgroup=true'  # Пригласить бота в канал
-NAME_CASINO = 'aristocratcasino_bot'  # Название вашего казино
+URL_BOT = 'https://t.me/aristocratsscasinorobot'  # Ссылка на бота
+INVITE_BOT = 'https://t.me/aristocratsscasinorobot?startgroup=true'  # Пригласить бота в канал
+NAME_CASINO = 'aristocratsscasinorobot'  # Название вашего казино
 
 # ЛИМИТЫ И ПРОЦЕНТЫ
 LIMIT_STAVKA = 10000  # Лимит на max ставку
@@ -206,6 +206,7 @@ RUSSIAN_ROULETTE_MULTIPLIERS = {  # русская рулетка коэффиц
 SLOTS_SYMBOLS = ["🍋", "🍒", "BAR", "🎰"]
 
 # Настройки админ панели
+
 
 
 
