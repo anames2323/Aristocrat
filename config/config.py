@@ -1,5 +1,5 @@
 # ТОКЕНЫ
-BOT_TOKEN = "8541438538:AAEGLq89kywbVh86m1O9K1Pzeh5J2LdXCTs-Kyc"  # token botfather
+BOT_TOKEN = "8541438538:AAEGLq89kywbVh86m1O9K1Pzeh5J2LdXCTs"  # token botfather
 CRYPTO_PAY_TOKEN = "532799:AAQFqWkfE1MLC8GUmyPItmE0sQuZZi49asl"  # token cryptobot
 
 # id каналов/чатов
@@ -206,6 +206,7 @@ RUSSIAN_ROULETTE_MULTIPLIERS = {  # русская рулетка коэффиц
 SLOTS_SYMBOLS = ["🍋", "🍒", "BAR", "🎰"]
 
 # Настройки админ панели
+
 
 
 
